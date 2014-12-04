@@ -1,0 +1,3 @@
+pizza: 🍕
+poop: 💩 
+thumbs up: 👍
